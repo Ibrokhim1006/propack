@@ -1,0 +1,22 @@
+{
+  "name": "@ibrokhim1006/pro-pack",
+  "version": "1.0.0",
+  "description": "Is pro pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibrokhim1006/propack.git"
+  },
+  "keywords": [
+    "ProPack"
+  ],
+  "author": "Ibrokhim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibrokhim1006/propack/issues"
+  },
+  "homepage": "https://github.com/Ibrokhim1006/propack#readme"
+}
